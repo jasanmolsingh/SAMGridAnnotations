@@ -19,6 +19,9 @@ Instead of manually drawing shapes around plants, soil, weeds, etc…
 
 This makes dataset creation MUCH faster.
 
+---
+## ☘️ Current Usage
+
 ✳️ This code is generated specifically for forage mixtures with **Alfalfa, Tall fescue, White clover, Weed, Backgound and Soil** as classes. For other objects, please change the classes and labels in the code.
 
 ---
