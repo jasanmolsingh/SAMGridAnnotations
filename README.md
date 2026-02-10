@@ -17,8 +17,11 @@ This repository helps you create **segmentation masks** for images using Meta AI
 Instead of manually drawing shapes around plants, soil, weeds, etc…
 
 ✅ The AI suggests masks
+
 ✅ You click the best one
+
 ✅ Choose a class
+
 ✅ Done!
 
 This makes dataset creation MUCH faster.
@@ -35,9 +38,13 @@ This makes dataset creation MUCH faster.
 For every image:
 
 1️⃣ Places a smart grid of points on the image 
+
 2️⃣ AI generates **3 mask options** 
+
 3️⃣ You select the best mask 
+
 4️⃣ Choose the correct label (Weed, Soil, etc.) 
+
 5️⃣ Mask is automatically saved 
 
 💡 You can stop anytime — the tool resumes from where you left off!
@@ -101,6 +108,9 @@ Download:
 sam_vit_b.pth
 ```
 
+✍️ Rename the downloaded file to "sam_vit_b.pth", if original filename is different.
+
+
 Create a folder:
 
 ```
@@ -112,6 +122,9 @@ Put the file inside:
 ```
 weights/sam_vit_b.pth
 ```
+
+
+
 ---
 
 ## 📁 Step 4 — Folder Structure
@@ -301,6 +314,15 @@ To reproduce results:
 4. Run the notebook
 
 For version-specific reproduction, use the archived release linked via DOI.
+
+---
+
+## 👤 Author
+Jasanmol Singh, M.Sc.
+
+Ph.D. Student | Clemson University, Clemson, SC, USA
+
+[Email](jasanms@clemson.edu) | [Personal Website](https://sites.google.com/view/jasanmolsingh/about)
 
 ---
 
