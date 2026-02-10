@@ -1,0 +1,24 @@
+# Virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# SAM model weights (DO NOT upload)
+weights/
+*.pth
+
+# Generated masks (optional – remove if you want to track them)
+dataset_mixture/masks/
+
+# Logs
+processed_log.txt
