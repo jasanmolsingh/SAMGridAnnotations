@@ -1,0 +1,23 @@
+# ===============================
+# SAMGridAnnotations Configuration
+# ===============================
+
+paths:
+  sam_checkpoint: "weights/sam_vit_b.pth"
+  image_folder: "dataset_mixture/images/train/"
+  mask_output_dir: "dataset_mixture/masks/train/sam_masks"
+  processed_log: "dataset_mixture/masks/train/processed_log.txt"
+
+grid:
+  desired_num_points: 90
+
+device:
+  use_cuda_if_available: true
+
+labels:
+  0: Background
+  1: Soil
+  2: Alfalfa
+  3: White Clover
+  4: Tall Fescue
+  5: Weed
