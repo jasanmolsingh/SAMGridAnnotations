@@ -298,7 +298,9 @@ Install the GPU version of PyTorch:
 
 ## 🙌 Acknowledgement
 
-* KAMS Lab (https://bulent931.wixsite.com/bulent/kams-lab)
+The research work and data collection for this project was conducted in the KAMS Lab (Dept. of Agricultural Sciences, Clemson University). 
+
+KAMS Lab (https://bulent931.wixsite.com/bulent/kams-lab)
 
 ---
 
