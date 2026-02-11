@@ -147,7 +147,7 @@ Your project should look like this:
 ```
 SAMGridAnnotator/
 │
-├── SAMGridAnnotator.ipynb
+├── SAMGridAnnotator_v1.ipynb
 ├── requirements.txt
 ├── README.md
 │
@@ -183,7 +183,7 @@ jupyter notebook
 Open:
 
 ```
-SAMGridAnnotator.ipynb
+SAMGridAnnotator_v1.ipynb
 ```
 
 Click:
